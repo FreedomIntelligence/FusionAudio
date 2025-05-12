@@ -156,7 +156,6 @@ def main(args):
     with open(args.output_file, "w") as f:
         json.dump(output_data, f, indent=4)
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Gama Alignment")
     parser.add_argument(
