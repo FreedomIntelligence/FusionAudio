@@ -1,9 +1,5 @@
 # ECHO-1.6M, Towards Fine-grained Audio Captioning with Multimodal Contextual Cues 
 
-### Resources  
-
-All resources required for echo can be found in [this drive](https://drive.google.com/drive/u/0/folders/1W8ZtlhXNZ2IdVcKWsQpLD4jVw98brYDM). Information about the files is provided below in respective sections.
-
 ### Setup Environment
 
 ```shell
@@ -34,7 +30,7 @@ The format of the dataset is a JSON file of a list of dicts, in the following fo
 ]
 ```
 
-- Download the Llama-2-7b-chat-hf-qformer from [here](https://drive.google.com/drive/u/0/folders/1W8ZtlhXNZ2IdVcKWsQpLD4jVw98brYDM).
+- Download the Llama-2-7b-chat-hf-qformer from [GAMA 'README' Traning](https://github.com/Sreyan88/GAMA).
 - Update the path of the dowloaded Llama-2-7b-chat-hf-qformer in [gama_finetune.py](.src/GAMA/gama_finetune.py) on line 96 and 101.
 
 Use the following commands to train the model:
