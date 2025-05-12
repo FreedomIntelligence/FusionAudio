@@ -1,0 +1,18 @@
+[
+  {
+    "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/ClothoAQA/audio_files/AmbianceBackyard_Quiet_bip.wav",
+    "instruction": "Are there more than one bird squawking?",
+    "input": "",
+    "dataset": "ClothoAQA",
+    "task": "Open-ended questions",
+    "output": "yes"
+  },
+  {
+    "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/ClothoAQA/audio_files/AmbianceBackyard_Quiet_bip.wav",
+    "instruction": "Are there more than one bird squawking?",
+    "input": "",
+    "dataset": "ClothoAQA",
+    "task": "Open-ended questions",
+    "output": "yes"
+  }
+]

@@ -1,0 +1,2434 @@
+[
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_0.wav",
+        "instruction": "Do you think the sound could be from a printer?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, it might be doing certain cleaning job."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_1.wav",
+        "instruction": "What type of weapon can be heard in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Sound of a machine gun firing can be heard in the audio."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_2.wav",
+        "instruction": "What type of environment is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A harbor or a busy streetside."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_3.wav",
+        "instruction": "What is the sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A door or a drawer is closing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_4.wav",
+        "instruction": "Was the telephone answered?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, it is answered."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_5.wav",
+        "instruction": "What type of environment or setting is likely to be recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An industrial or mechanical setting, such as a factory or a machine shop, is likely to be recorded in the audio file."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_6.wav",
+        "instruction": "What type of object is being moved in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drawer or a chair."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_7.wav",
+        "instruction": "Can we hear sheep bleating in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, we can hear cows moo."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_8.wav",
+        "instruction": "What is passing by while the church bell rings in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Some vehicles are passing by."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_9.wav",
+        "instruction": "Is there still a sound at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_10.wav",
+        "instruction": "What are the primary sounds being recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "host speaking, cheering and shouting."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_11.wav",
+        "instruction": "What is the main sound that can be heard in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Steam is the main sound that can be heard in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_12.wav",
+        "instruction": "Can we hear singing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_13.wav",
+        "instruction": "What type of outdoor setting is likely depicted in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A beach or coastal area with a sailboat is likely depicted in this audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_14.wav",
+        "instruction": "What can we hear after the hair dryer?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "People are speaking and laughing. A dog is present."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_15.wav",
+        "instruction": "What types of sounds are heard in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Chirping, and crowing sounds are heard in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_16.wav",
+        "instruction": "What is the coffee machine producing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The coffee machine is producing hot coffee."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_17.wav",
+        "instruction": "What types of sounds are present in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Dogs barking and yipping, and rhythmic music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_18.wav",
+        "instruction": "What type of instrument is playing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drum is playing in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_19.wav",
+        "instruction": "What can we hear from the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A car is passing by."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_20.wav",
+        "instruction": "Who is the male vocalist featured in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The male vocalist featured in the audio recording is not specified in the given context."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_21.wav",
+        "instruction": "What is the typical sound in this audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Bees are buzzing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_22.wav",
+        "instruction": "What is the style of the voice in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A robotic voice."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_23.wav",
+        "instruction": "How many sounds are audible?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "There are four clicking sounds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_24.wav",
+        "instruction": "What type of musical sequence is being broken down in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An accord sequence, which is a harmonic sequence, is being broken down in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_25.wav",
+        "instruction": "What animal can we hear in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Birds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_26.wav",
+        "instruction": "What type of sound is being played?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound being played is electronic music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_27.wav",
+        "instruction": "What is being scratched in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A plank or a wooden door."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_28.wav",
+        "instruction": "Can we hear chainsaw in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_29.wav",
+        "instruction": "What type of birds are making noise?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Crows."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_30.wav",
+        "instruction": "What happend to the jet engine?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is shutting down."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_31.wav",
+        "instruction": "Can you hear wind noise?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_32.wav",
+        "instruction": "What is making a noise in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A cleaner spray bottle is making a noise."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_33.wav",
+        "instruction": "Do you believe it is from an actual scene?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, it is more likely from a video game."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_34.wav",
+        "instruction": "Gunshots are noticed. Can we hear people yelling?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_35.wav",
+        "instruction": "What type of music is being recorded in the studio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Heavy metal music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_36.wav",
+        "instruction": "What can we hear in the middle?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An alarm sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_37.wav",
+        "instruction": "What does the audio recording sound like?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Human's breath near a microphone."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_38.wav",
+        "instruction": "What type of environment is the audio recording likely to be from?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A tropical or subtropical forest environment."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_39.wav",
+        "instruction": "What type of event or performance is likely being recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A rock concert or music festival is likely being recorded in the audio file."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_40.wav",
+        "instruction": "Which musical instrument makes the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A trumpet or a mellophone."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_41.wav",
+        "instruction": "What happened to the engine?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An engine has just started."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_42.wav",
+        "instruction": "What type of announcement is being made at the station?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A station announcement is being made."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_43.wav",
+        "instruction": "What type of event or celebration is likely being recorded in this audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A fireworks display is likely being recorded in this audio clip."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_44.wav",
+        "instruction": "What is the sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound being recorded in the audio clip is the sound of an iron lock being locked and unlocked."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_45.wav",
+        "instruction": "What could make the type of sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Wind or a person blowing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_46.wav",
+        "instruction": "What types of sounds can be heard in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Birds singing, water sounds and a female speaking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_47.wav",
+        "instruction": "Is the audio more than 10 seconds?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_48.wav",
+        "instruction": "Is bell ringing at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, a bell is ringing at the beginning."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_49.wav",
+        "instruction": "Are the people conversing peacefully with each other?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, they are shouting."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_50.wav",
+        "instruction": "What is the sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A sheep's bleating."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_51.wav",
+        "instruction": "What is the primary instrument being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A harmonica is being played."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_52.wav",
+        "instruction": "Which part of the audio is muted: the beginning, middle, or end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The middle."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_53.wav",
+        "instruction": "What type of music is being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drum solo."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_54.wav",
+        "instruction": "What is being struck with water on the table?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A pot or a glass."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_55.wav",
+        "instruction": "What could be making the electric noise in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A radio or an intercom."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_56.wav",
+        "instruction": "What type of audio is being played in the recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A video game death sound effect is being played in high quality."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_57.wav",
+        "instruction": "Where was the audio recording made?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The audio recording was made in a kitchen by a juicer."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_58.wav",
+        "instruction": "What type of social setting is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A mother is palying a game with her daughter."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_59.wav",
+        "instruction": "What is probably the source of the sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The noise of an engine."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_60.wav",
+        "instruction": "What instruments are being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Maybe a dark timpani."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_61.wav",
+        "instruction": "What type of audio recording is being played?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Music is being played continuously."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_62.wav",
+        "instruction": "How many times did the clock ticking?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "4 times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_63.wav",
+        "instruction": "What sound is playing in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound of footsteps on the water."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_64.wav",
+        "instruction": "Is there anyone present in the audio besides the animals?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_65.wav",
+        "instruction": "How many people can we hear, and who are they?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Three individuals: a male, a female, and a child."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_66.wav",
+        "instruction": "What is the matrial of the door?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The door is made of wood."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_67.wav",
+        "instruction": "Who is speaking on the phone in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A man is speaking on the phone."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_68.wav",
+        "instruction": "What type of creature is making the sound described in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Large Animals."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_69.wav",
+        "instruction": "What type of surface are the footsteps on?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Gravel."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_70.wav",
+        "instruction": "Can we hear a male talking in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_71.wav",
+        "instruction": "How many clicking sounds can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "11 times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_72.wav",
+        "instruction": "What type of sound is playing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A bass sound is playing in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_73.wav",
+        "instruction": "What type of music is featured in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The type of music featured in the audio recording is folk music, specifically yodeling."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_74.wav",
+        "instruction": "Is the man delivering the speech by himself?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, several people are talking together."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_75.wav",
+        "instruction": "What type of vehicle is being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A car with a manual transmission is being recorded in the audio clip."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_76.wav",
+        "instruction": "How many persons there and are they speaking English?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Two people and they are not speaking English."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_77.wav",
+        "instruction": "What kind of human sounds can be heard?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is mixed with crying, sobbing, roaring, and singing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_78.wav",
+        "instruction": "What can we hear besides the music?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Crowd cheers."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_79.wav",
+        "instruction": "What is passing by?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A motor boat."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_80.wav",
+        "instruction": "What instrument is being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A harmonica."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_81.wav",
+        "instruction": "Which device is being used in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A keyboard."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_82.wav",
+        "instruction": "What is the gender of the singer featured in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A female singer is featured in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_83.wav",
+        "instruction": "What object is there?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A train."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_84.wav",
+        "instruction": "What is being done in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Someone is lighting a matchstick."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_85.wav",
+        "instruction": "Is the sound in high or low frequency?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound is in very high frequency."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_86.wav",
+        "instruction": "Is the woman laughing or crying at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "She is laughing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_87.wav",
+        "instruction": "What is happening to the wood?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The wood is creaking.\n"
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_88.wav",
+        "instruction": "Can we hear a gunshot in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_89.wav",
+        "instruction": "What is happening at the table?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Liquid is being poured into a cup."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_90.wav",
+        "instruction": "Who is performing the action of slamming the car door?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Someone is slamming car door."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_91.wav",
+        "instruction": "Is there someone talking?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_92.wav",
+        "instruction": "What is the mood or atmosphere of the music in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The mood or atmosphere of the music in this audio recording is relaxed."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_93.wav",
+        "instruction": "What are being tapped in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Plastic waste barrels."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_94.wav",
+        "instruction": "What type of sound is resonating in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A laser sound with an echo is resonating."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_95.wav",
+        "instruction": "Are there a group of people singing, or is it just music playing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "People are singing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_96.wav",
+        "instruction": "What type of activity is likely being conducted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A female is giving a handicraft lesson."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_97.wav",
+        "instruction": "Is the sound from a vocal or a musical instrument?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Vocal."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_98.wav",
+        "instruction": "What instruments are featured in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A slide whistle and a timpani drum are featured in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_99.wav",
+        "instruction": "Is the sound louder at the beginning or the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is louder at the beginning."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_100.wav",
+        "instruction": "What types of sounds are present in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Mechanistic noises and a cat's meow."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_101.wav",
+        "instruction": "Can we hear the sound of an electric switch starting in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, the switch may be currently turned on."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_102.wav",
+        "instruction": "What is being opened in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A wine bottle is being opened."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_103.wav",
+        "instruction": "Amid the sound effects, what can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Woman speaks."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_104.wav",
+        "instruction": "What happened at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "We can hear a female voice."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_105.wav",
+        "instruction": "What type of announcement is this?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An automated announcement is being made in the metro."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_106.wav",
+        "instruction": "What is the last sound you heard?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A cat has being heard."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_107.wav",
+        "instruction": "How many zipping sounds can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "5 zipping sounds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_108.wav",
+        "instruction": "Who are the speakers in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A women."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_109.wav",
+        "instruction": "What can we hear from the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Cars passing by."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_110.wav",
+        "instruction": "Which musical instrument likely makes the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drum set."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_111.wav",
+        "instruction": "What can we hear besides the crows?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "We can hear some conversation."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_112.wav",
+        "instruction": "Why is the baby laughing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, the bably is actually crying."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_113.wav",
+        "instruction": "How many sounds can we here?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Two."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_114.wav",
+        "instruction": "What is the man likely doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Playing computer games."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_115.wav",
+        "instruction": "What instrument is being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A cello."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_116.wav",
+        "instruction": "How many people there? Male or Female?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Lots of people with both male and female."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_117.wav",
+        "instruction": "What are croaking in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Frogs are croaking at different octaves and speeds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_118.wav",
+        "instruction": "Who is reading?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A group of people."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_119.wav",
+        "instruction": "What is the nature of the audio recording (e.g. interview, conversation, etc.)?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The audio recording appears to be an informal conversation or interview, likely a podcast or radio show, given the background noise and the speaker's relaxed tone."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_120.wav",
+        "instruction": "Is someone knocking the door?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, but the door bell is ringing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_121.wav",
+        "instruction": "Can we hear someone talking in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_122.wav",
+        "instruction": "What type of object is being recorded in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A chainsaw or a vehicle engine is being started."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_123.wav",
+        "instruction": "What type of mechanical devices are being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The engine of a truck or a ship."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_124.wav",
+        "instruction": "What type of audio recording is being played?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An 8-bit style piece of music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_125.wav",
+        "instruction": "Do we hear the bell sound at the start or the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The bell sound is heard at the start."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_126.wav",
+        "instruction": "Can we clearly hear the man's voice? Is he speaking Japanese?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, we can clearly hear the man speaking, but it's not in Japanese."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_127.wav",
+        "instruction": "What is passing by?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A motorcycle."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_128.wav",
+        "instruction": "What is the object that makes contact with the ground in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A rock."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_129.wav",
+        "instruction": "What can we hear besides the cat?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Human sniffing sounds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_130.wav",
+        "instruction": "Can we hear engine sound in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_131.wav",
+        "instruction": "Can you determine whether it's an indoor or outdoor setting?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Outdoor."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_132.wav",
+        "instruction": "What type of sounds are present in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The audio recording contains the sound of a church bell ringing and urban noise."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_133.wav",
+        "instruction": "What can we hear besides the baby?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A female."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_134.wav",
+        "instruction": "What type of musical composition is being described in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A chord progression."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_135.wav",
+        "instruction": "Can we hear the crickets chirpm in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_136.wav",
+        "instruction": "What type of announcement is being made about the train?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A station announcement about the arrival or departure of a train is being made."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_137.wav",
+        "instruction": "What is the person doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Sleeping while snoring."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_138.wav",
+        "instruction": "What is happening in the scene described in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "People are leaving or departing from a location."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_139.wav",
+        "instruction": "What is the man likely doing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The man is likely mowing his lawn."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_140.wav",
+        "instruction": "Is the sound loud and clear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, we can barely hear what's happening."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_141.wav",
+        "instruction": "Can you hear the sound of firecrackers in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_142.wav",
+        "instruction": "Does some music loop continuously?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_143.wav",
+        "instruction": "Does the audio recording incidate a busy road scene?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_144.wav",
+        "instruction": "What is being tapped in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A wine glass is being tapped with a metal spoon."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_145.wav",
+        "instruction": "What type of audio recording is described in the caption?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Shortwave radio is broadcasting a singer singing with sharp radio noise."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_146.wav",
+        "instruction": "What is being written on the surface in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Chalk is being written on a chalkboard."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_147.wav",
+        "instruction": "What object is likely making the noise?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A machine, likely a mechanical device or equipment."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_148.wav",
+        "instruction": "What type of sounds are featured in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Water pouring sounds are presented."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_149.wav",
+        "instruction": "What type of music is being created in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Drum and bass music is being created in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_150.wav",
+        "instruction": "What is the sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound being recorded in the audio clip is the revving of a car engine."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_151.wav",
+        "instruction": "Is there someone talking in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_152.wav",
+        "instruction": "What is the person in the audio recording reading?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A riddle."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_153.wav",
+        "instruction": "Can we hear a man speaking at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_154.wav",
+        "instruction": "Is a male singing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, a female is singing with electric music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_155.wav",
+        "instruction": "Is there people present?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, they speak from a very far distance."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_156.wav",
+        "instruction": "What type of sounds can be heard in this audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Applauding and cheering sounds can be heard in the audio clip."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_157.wav",
+        "instruction": "How many sounds are audible?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "1 sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_158.wav",
+        "instruction": "What type of noise is being used to create the analog drum loop in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "White noise is being used to create the analog drum loop in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_159.wav",
+        "instruction": "What is heard in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drill is being used."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_160.wav",
+        "instruction": "What type of content is likely being presented in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A comedy or stand-up comedy recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_161.wav",
+        "instruction": "What type of sound is the engine producing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The engine is producing a medium frequency sound, which is indicative of an idling sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_162.wav",
+        "instruction": "What is the sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Music is playing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_163.wav",
+        "instruction": "What type of sound is being described in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound being described is a low-frequency industrial or mechanical noise."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_164.wav",
+        "instruction": "What object can you hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A telephone."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_165.wav",
+        "instruction": "What type of sound is playing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A heavy bass drum loop is playing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_166.wav",
+        "instruction": "Is there music while the baby is laughing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, there is background music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_167.wav",
+        "instruction": "Is the man laughing at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, there is no sound at the end of the audio."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_168.wav",
+        "instruction": "What type of event or activity is likely being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A casual small talking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_169.wav",
+        "instruction": "What type of audio recording is described in the caption?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A multimedia audio recording, likely from a video game or a film."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_170.wav",
+        "instruction": "Can we hear bird chirping in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_171.wav",
+        "instruction": "Is the man speaking before the woman starts to sing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, the man speaks after the woman sings."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_172.wav",
+        "instruction": "What type of sound is being made in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A melodic sound is being made including some string sounds in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_173.wav",
+        "instruction": "What is the sound being made in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A propeller spinning."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_174.wav",
+        "instruction": "Is the woman healthy according to the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, she is coughing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_175.wav",
+        "instruction": "The man is likely using metal tools or wooden tools?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Metal tools."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_176.wav",
+        "instruction": "Is the individual speaking English?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_177.wav",
+        "instruction": "What is the intended use of the audio recording described in the caption?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The intended use of the audio recording is as a sound effect for destroying a player in a game."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_178.wav",
+        "instruction": "What is the source of the sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A power saw is being used in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_179.wav",
+        "instruction": "What is the primary sound being recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The primary sound being recorded in the audio file is the constant noise of the jet taking off."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_180.wav",
+        "instruction": "What can we hear besides the man's speech?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Water is boiling."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_181.wav",
+        "instruction": "Is there someone talking?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, just background music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_182.wav",
+        "instruction": "What is the primary sound effect in the given audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The primary sound effect in the given audio recording is the sound of a clock striking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_183.wav",
+        "instruction": "What type of scene or situation is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A scene of a severe car crash is depicted in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_184.wav",
+        "instruction": "What type of sound is being recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Floorboards creaking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_185.wav",
+        "instruction": "What can we hear besides the speech?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Someone is coughing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_186.wav",
+        "instruction": "Is the man singing a nursery rhyme in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, he is singing a pop song that has been adapted from a nursery rhyme."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_187.wav",
+        "instruction": "What is the primary sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The primary sound being recorded in the audio clip is the ticking of a clock."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_188.wav",
+        "instruction": "Is there more than three persons in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_189.wav",
+        "instruction": "Can we see someone else besides the man?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_190.wav",
+        "instruction": "Is there a buzzing sound from a fly in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_191.wav",
+        "instruction": "Is the person singing in a peaceful environment?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, because someone is crying."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_192.wav",
+        "instruction": "How many times did the person repeat the same content?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Four times in different emotions."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_193.wav",
+        "instruction": "How many speakers there?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Two."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_194.wav",
+        "instruction": "What is moving in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A dice or a walnut."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_195.wav",
+        "instruction": "What type of sound is likely to be featured in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "White noise is likely to be featured in this audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_196.wav",
+        "instruction": "What type of cymbal is being used to create the drum beat in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A ride cymbal is being used to create the drum beat in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_197.wav",
+        "instruction": "Is the sound stopped at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_198.wav",
+        "instruction": "Is there a person present? If so, it the person talking?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, but the person is not talking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_199.wav",
+        "instruction": "What animals can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Sheep."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_200.wav",
+        "instruction": "What is the person in the audio recording doing with the brush?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The person is combing their hair with the brush."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_201.wav",
+        "instruction": "What type of sound is being made in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A bird is making a singing sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_202.wav",
+        "instruction": "Is the sound repeating itself?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, it is a repetitive beep sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_203.wav",
+        "instruction": "Can you hear wind noise?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_204.wav",
+        "instruction": "How many times did the bottle make contact?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It hit three times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_205.wav",
+        "instruction": "What type of sound is being made by the bird in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The bird is making a vocal sound, specifically a call."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_206.wav",
+        "instruction": "What type of weather phenomenon is described in the audio caption?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "High wind."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_207.wav",
+        "instruction": "What makes the type of sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A glass ball rolling in a disk."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_208.wav",
+        "instruction": "What emotional type is the melodic theme being played?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Cheerful."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_209.wav",
+        "instruction": "What type of sounds is the bird making in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The bird is making clucking and tweeting sounds in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_210.wav",
+        "instruction": "What audio effects are used in the rhythm synth in this recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The audio effects used in the rhythm synth in this recording are reverb and fade-out."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_211.wav",
+        "instruction": "What activities are they doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "They are likely playing basketball."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_212.wav",
+        "instruction": "Can we hear the frog sounds in the background of the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_213.wav",
+        "instruction": "What type of setting or event is likely depicted in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A crowded public event, such as a music festival, concert, or street fair, is likely depicted in this audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_214.wav",
+        "instruction": "What types of sounds are present in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Music and roaring cats are present in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_215.wav",
+        "instruction": "Can we hear a painful groan of a female in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, we can hear a painful groan of a male."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_216.wav",
+        "instruction": "What type of event is the audio recording likely to be from?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A concert or a music festival"
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_217.wav",
+        "instruction": "What can we hear at the beginning?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "People laugh."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_218.wav",
+        "instruction": "What is happening to the bag in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is being unzipped and zipped."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_219.wav",
+        "instruction": "Is music playing in the background?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_220.wav",
+        "instruction": "What type of sound is playing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A synthetic sound is been played."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_221.wav",
+        "instruction": "What type of surface is the person walking on?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Concrete."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_222.wav",
+        "instruction": "What is happening with the music?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "We can hear singing sound from females."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_223.wav",
+        "instruction": "What is going on with the straw?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The straw is used to hit the ice multiple times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_224.wav",
+        "instruction": "How many times did the sound play?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "11 times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_225.wav",
+        "instruction": "What two sounds are being played together in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Bells and blips are being played together in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_226.wav",
+        "instruction": "The main speaker is male or female?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It's a male person."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_227.wav",
+        "instruction": "What makes the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Someone is pouring water."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_228.wav",
+        "instruction": "What type of musical instrument is being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A hi-hat is being played."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_229.wav",
+        "instruction": "What is being manipulated in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Fabric is being shaken by strong wind."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_230.wav",
+        "instruction": "What is the man doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The man is moaning."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_231.wav",
+        "instruction": "What is the primary source of sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The primary source of sound in the audio recording is the engine revving."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_232.wav",
+        "instruction": "Is the sound continues to the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, it stopped."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_233.wav",
+        "instruction": "Is the sound volume increasing or decreasing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound volume is decreasing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_234.wav",
+        "instruction": "what sound can be heard in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Someone is knocking on the front door."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_235.wav",
+        "instruction": "How many times has the dice been dropped?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "3 times."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_236.wav",
+        "instruction": "What is the person in the audio recording doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The person in the audio recording is spraying a bottle."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_237.wav",
+        "instruction": "What instrument is playing a note in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A cello."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_238.wav",
+        "instruction": "What type of audio effect is being used in the recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A reverb effect is being used in the recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_239.wav",
+        "instruction": "What is being unlocked in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A large gate is being unlocked."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_240.wav",
+        "instruction": "What is happening in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A chaotic scene is unfolding, with people running and gunfire being exchanged."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_241.wav",
+        "instruction": "What type of event was recorded in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A soccer goal was recorded."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_242.wav",
+        "instruction": "Can we hear someone talking in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_243.wav",
+        "instruction": "Is the man's voice audible enough to be heard clearly?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, we cannot hear the man's voice clearly."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_244.wav",
+        "instruction": "What type of stairs is the woman walking up?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Wooden stairs."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_245.wav",
+        "instruction": "Is the sound in high frequency or low frequency?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Digital sound in high frequency."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_246.wav",
+        "instruction": "The man is still speaking at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, the man is talking at the beginning."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_247.wav",
+        "instruction": "What type of setting is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A social gathering or party is depicted in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_248.wav",
+        "instruction": "Is the man typing while he is speaking in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, we can hear the sounds of a keyboard."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_249.wav",
+        "instruction": "What type of instrument is being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Drum."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_250.wav",
+        "instruction": "Are there voices singing in the music?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, just pure music."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_251.wav",
+        "instruction": "What is the sound being heard in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A phone exchange is ringing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_252.wav",
+        "instruction": "What type of activity is being conducted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A female is recording an instruction."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_253.wav",
+        "instruction": "What type of event or occasion is being recorded in the audio file?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A bonfire party or a celebration."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_254.wav",
+        "instruction": "Does the object continue to accelerate at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, it's slowing down."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_255.wav",
+        "instruction": "Which musical instrument makes the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A violin."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_256.wav",
+        "instruction": "Is there a woman crying while the two men are talking?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, we can just hear the birds."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_257.wav",
+        "instruction": "Can we hear some camera sounds in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_258.wav",
+        "instruction": "What type of sound is being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A shotgun being loaded and fired."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_259.wav",
+        "instruction": "What is being plucked in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A violin string."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_260.wav",
+        "instruction": "Which musical instrument likely makes the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A drum, possibly a dark-sounding Timpani."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_261.wav",
+        "instruction": "What type of public transportation is the audio recording likely to be from?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The audio recording is likely to be from a subway."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_262.wav",
+        "instruction": "What type of establishment is the cafeteria likely to be located in?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A train station."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_263.wav",
+        "instruction": "How many speakers are there?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "There is no one speaking."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_264.wav",
+        "instruction": "What type of environment is the audio recording likely to be from?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A forest or woodland environment."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_265.wav",
+        "instruction": "What sound can we here?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "An engine is producing the sound in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_266.wav",
+        "instruction": "Where is the audio recording likely taking place?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A factory or a port."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_267.wav",
+        "instruction": "What type of weather phenomenon is being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Thunder is being recorded in the audio clip, indicating a storm or severe weather event."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_268.wav",
+        "instruction": "What can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Random machine noise."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_269.wav",
+        "instruction": "What is the sound being played in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound is likely an old record of a symphony."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_270.wav",
+        "instruction": "What is the sound effect being described in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A gunshot."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_271.wav",
+        "instruction": "What can we hear from the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Music sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_272.wav",
+        "instruction": "Where the recording is likely being captured?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "On the deck of a cargo ship."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_273.wav",
+        "instruction": "What is the sound of the vehicle in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound of the vehicle in the audio recording is a revving engine idling."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_274.wav",
+        "instruction": "What can you hear at the end?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Nothing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_275.wav",
+        "instruction": "What is making the loud blasts in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The loud blasts in the audio recording are likely produced by some type of factory machine."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_276.wav",
+        "instruction": "What is happening at the beginning of the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The car is starting."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_277.wav",
+        "instruction": "What can we hear from the sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "We can hear the water sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_278.wav",
+        "instruction": "Is the sound annoying to humans?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, we can hear some roaring sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_279.wav",
+        "instruction": "What is making the splashing sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is someone flushing the toilet."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_280.wav",
+        "instruction": "What sounds can be heard in the beginning of the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "bullet fly sound."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_281.wav",
+        "instruction": "What is the horse doing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The horse is cantering on grass."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_282.wav",
+        "instruction": "What type of event is likely occurring in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A violent or potentially dangerous event, such as a robbery, shootout, or attack, is likely occurring in the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_283.wav",
+        "instruction": "What type of vehicle is producing the sound in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A motorcycle or a boat."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_284.wav",
+        "instruction": "Is the audio recording capturing a sound related to the wind blowing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, the audio recording is capturing a sound related to the wind blowing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_285.wav",
+        "instruction": "What can we hear besides the beap sound?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Some female voice."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_286.wav",
+        "instruction": "What type of setting is the audio recording likely to be from?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A sports bar or a pub."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_287.wav",
+        "instruction": "Is the string melody playing with a filter?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes, the string melody is being played through a filter, creating a mysterious ambiance."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_288.wav",
+        "instruction": "What object is being placed on the coffee machine?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A cup."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_289.wav",
+        "instruction": "What sound can we hear?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The birds are chirping."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_290.wav",
+        "instruction": "Is the primary speech from an adult?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "No, it's from a child."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_291.wav",
+        "instruction": "What type of environment is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A coastal or marine environment."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_292.wav",
+        "instruction": "What is the person in the audio recording doing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The person in the audio recording is pouring liquid into a glass filled with ice."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_293.wav",
+        "instruction": "What type of event is depicted in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A rock concert or a music festival."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_294.wav",
+        "instruction": "What is the child doing in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The child is jumping on a divan."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_295.wav",
+        "instruction": "What can we hear from the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A door is closing."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_296.wav",
+        "instruction": "What is the sound being recorded in the audio clip?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The sound being recorded in the audio clip is the sound of a toaster popping up."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_297.wav",
+        "instruction": "What type of event or setting is likely depicted in this audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A concert or live music performance is likely depicted in this audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_298.wav",
+        "instruction": "Can we hear the sound of a guitar in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_299.wav",
+        "instruction": "Can we hear electromagnetic sound in the audio?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "Yes."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_300.wav",
+        "instruction": "What kind of instrument is it?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "It is a bluesy violin."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_301.wav",
+        "instruction": "What is being done to the tire in the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "The tire is being deflated."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_302.wav",
+        "instruction": "What audio effect is being applied to the audio recording?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "A fade-out is being applied to the audio recording."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/WavCapsQA/audio/audio_303.wav",
+        "instruction": "What else can we hear apart from the music, language, and child singing?",
+        "input": "",
+        "dataset": "wavcaps_qa",
+        "task": "Open-ended question",
+        "output": "We can hear a pig oinking."
+    }
+]

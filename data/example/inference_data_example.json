@@ -1,0 +1,18 @@
+[
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/AudioCapsQA/audio/audio_0.wav",
+        "instruction": "What type of setting or location is likely to be depicted in the audio recording?",
+        "input": "",
+        "dataset": "audiocaps_qa",
+        "task": "Open-ended question",
+        "output": "A busy airport or a seaport."
+    },
+    {
+        "audio_id": "/wangbenyou/xinyuan/ECHO-AQA/data/eval/AudioCapsQA/audio/audio_1.wav",
+        "instruction": "What is the woman trying to do to the child?",
+        "input": "",
+        "dataset": "audiocaps_qa",
+        "task": "Open-ended question",
+        "output": "The child is crying, and the woman seeks to comfort him."
+    }
+]
