@@ -56,7 +56,6 @@ def call_llm_completion(api_key, api_base_url, model_name, messages, temperature
                 return None
     return None
 
-
 def _gpt4_llm_as_judge_one_sample_1_to_10_score_chat_exact_with_meta(args):
     # Unpack arguments (add meta_info, temperature, max_tokens)
     question, references, prediction, meta_info, api_key, api_base_url, model_name, temperature, max_tokens = args
