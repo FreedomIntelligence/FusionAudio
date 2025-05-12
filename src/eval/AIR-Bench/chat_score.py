@@ -333,5 +333,4 @@ if __name__ == '__main__':
     else:
         logging.warning("No valid summary results were obtained to save.")
 
-
     logging.info("Evaluation script finished.")
