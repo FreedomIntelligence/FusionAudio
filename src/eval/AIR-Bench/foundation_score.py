@@ -31,5 +31,4 @@ for item in data:
         if gt == item.get("output"):
             num_true += 1
         num += 1
-
 print(f"acc:{num_true/num}")
