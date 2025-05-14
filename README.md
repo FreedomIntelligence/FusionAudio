@@ -58,4 +58,10 @@ If you want to evaluation ECHO on other benchmark or your own dataset, you need 
 cd scripts/eval
 bash infer.sh
 ```
-If you want to evaluate an audio-text retrieval model trained on the FusionAudio dataset, you can run the following code.
+If you want to evaluate an audio-text retrieval model trained on the FusionAudio dataset, you can run the following code.What you should prepare:
+1.Install the correct environment and prepare val dataset according to https://github.com/XinhaoMei/WavCaps/tree/master/retrieval   
+2.set the "ckpt_path" in inference.yaml to your model path
+```shell
+cd scripts/retrieval
+python eval.py
+```
