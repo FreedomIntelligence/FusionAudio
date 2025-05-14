@@ -58,4 +58,4 @@ If you want to evaluation ECHO on other benchmark or your own dataset, you need 
 cd scripts/eval
 bash infer.sh
 ```
-
+If you want to evaluate an audio-text retrieval model trained on the FusionAudio dataset, you can run the following code.
