@@ -1,10 +1,10 @@
-# ECHO-1.6M, Towards Fine-grained Audio Captioning with Multimodal Contextual Cues 
+# FusionAudio-1.6M, Towards Fine-grained Audio Captioning with Multimodal Contextual Cues 
 
 ### Setup Environment
 
 ```shell
-conda create -n echo python=3.10
-conda activate echo
+conda create -n FusionAudio python=3.10
+conda activate FusionAudio
 pip install -r requirements.txt
 pip install -e src/GAMA/hf-dev-train/transformers-main
 pip install -e src/GAMA/peft-main
@@ -36,7 +36,7 @@ The format of the dataset is a JSON file of a list of dicts, in the following fo
 Use the following commands to train the model:
 
 ```shell
-conda activate echo
+conda activate FusionAudio
 cd scripts/train/
 bash train.sh
 ```
@@ -45,14 +45,14 @@ bash train.sh
 
 ### Inference & Evaluation
 
-You can use the scripts to evaluation ECHO on classification tasks directly, just change the model and dataset name to start. Of course, you need to change the API_base_url and API_KEY  if you want to use the evaluation model.
+You can use the scripts to evaluation FusionAudio on classification tasks directly, just change the model and dataset name to start. Of course, you need to change the API_base_url and API_KEY  if you want to use the evaluation model.
 
 ```shell
 cd scripts/eval
 bash eval_cls.sh
 ```
 
-If you want to evaluation ECHO on other benchmark or your own dataset, you need to change the data path and use the corresponding code, like [AudioCapsQA_eval.py](.src/eval/AudioBench/AudioCapsQA/AudioCapsQA_eval.py).
+If you want to evaluation FusionAudio on other benchmark or your own dataset, you need to change the data path and use the corresponding code, like [AudioCapsQA_eval.py](.src/eval/AudioBench/AudioCapsQA/AudioCapsQA_eval.py).
 
 ```shell
 cd scripts/eval
