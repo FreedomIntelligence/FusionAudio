@@ -1,5 +1,7 @@
 # FusionAudio-1.6M, Towards Fine-grained Audio Captioning with Multimodal Contextual Cues 
 
+Download FusionAudio-1.6M text [here](https://huggingface.co/datasets/SatsukiVie/FusionAudio).
+
 ### Setup Environment
 
 ```shell
@@ -52,6 +54,7 @@ cd scripts/eval
 bash eval_cls.sh
 ```
 Download FusionAudio-25k and FusionAudio-25k-high checkpoint [here](https://huggingface.co/SatsukiVie/FusionAudio/tree/main).
+
 If you want to evaluation FusionAudio on other benchmark or your own dataset, you need to change the data path and use the corresponding code, like [AudioCapsQA_eval.py](.src/eval/AudioBench/AudioCapsQA/AudioCapsQA_eval.py).
 
 ```shell
