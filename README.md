@@ -64,6 +64,7 @@ bash infer.sh
 If you want to evaluate an audio-text retrieval model trained on the FusionAudio dataset, you can run the following code.What you should prepare:
 1.Install the correct environment and prepare val dataset according to https://github.com/XinhaoMei/WavCaps/tree/master/retrieval   
 2.set the "ckpt_path" in inference.yaml to your model path
+3.put the eval.py into the retrieval file you download
 ```shell
 cd scripts/retrieval
 python eval.py
