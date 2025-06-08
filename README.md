@@ -1,8 +1,7 @@
+
 # FusionAudio-1.2M, Towards Fine-grained Audio Captioning with Multimodal Contextual Cues 
 
 
-
----
 
 🚀🚀🚀 Official implementation of **FusionAudio-1.2M**: Towards Fine-grained Audio Captioning with Multimodal Contextual Cues
 
@@ -158,6 +157,7 @@ python eval_retrieval.py
 * **GAMA**: Thanks for providing excellent infrastructure
 * **WavCaps**: Thanks for pioneering work in audio captioning
 * **Llama**: Thanks for providing powerful language model foundation
+* **AudioSet**: Thanks for providing large-scale audio dataset and ontology
 
 ## ✒️ Citation
 
