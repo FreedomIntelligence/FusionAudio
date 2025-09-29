@@ -80,7 +80,7 @@ For detailed parameter descriptions, run `python quick_inference.py --help`.
 
 We constructed a large-scale dataset containing 1.2 million high-quality audio-text pairs.
 
-**Caption&QA Dataset Download Link**: [🤗 Hugging Face](https://huggingface.co/datasets/SatsukiVie/FusionAudio)
+**Caption&QA Dataset Download Link**: [🤗 Hugging Face](https://huggingface.co/datasets/SatsukiVie/FusionAudio)  
 **Video Download**:
 ```bash
 # Preparation
