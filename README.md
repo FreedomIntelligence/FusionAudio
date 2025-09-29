@@ -80,8 +80,18 @@ For detailed parameter descriptions, run `python quick_inference.py --help`.
 
 We constructed a large-scale dataset containing 1.2 million high-quality audio-text pairs.
 
-**Download Link**: [🤗 Hugging Face](https://huggingface.co/datasets/SatsukiVie/FusionAudio)
+**Caption&QA Dataset Download Link**: [🤗 Hugging Face](https://huggingface.co/datasets/SatsukiVie/FusionAudio)
+**Video Download**:
+```bash
+# Preparation
+# 1. Write a cookie for Google Account to a txt file
+# 2. Change line 56,line 116,line 118 for the txt file and downloaded video path
+# 3. run VideoDownload.py
+# 4. If the download speed is slow,you can download videos on servers such as AWS 
 
+cd dataset
+python VideoDownload.py
+```
 #### Data Format
 
 ```json
