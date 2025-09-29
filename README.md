@@ -89,7 +89,7 @@ We constructed a large-scale dataset containing 1.2 million high-quality audio-t
 # 3. run VideoDownload.py
 # 4. If the download speed is slow,you can download videos on servers such as AWS 
 
-cd dataset
+cd data
 python VideoDownload.py
 ```
 #### Data Format
