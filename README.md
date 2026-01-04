@@ -5,12 +5,13 @@
 
 🚀🚀🚀 Official implementation of **FusionAudio-1.2M**: Towards Fine-grained Audio Captioning with Multimodal Contextual Cues
 
-![sample](imgs/sample.png)
-
 * **Authors**: [Shunian Chen*](https://github.com/Shunian-Chen), [Xinyuan Xie*](https://github.com/satsuki2486441738), [Zheshu Chen*](https://github.com/kawagebo12), [Liyan Zhao](https://github.com/Apostasi0225cuhksz), [Owen Lee](https://github.com/KaiTheSkyWalker), [Zhan Su](https://scholar.google.com/citations?user=VzEpVpoAAAAJ), [Qilin Sun](https://scholar.google.com/citations?user=igqPS8sAAAAJ), [Benyou Wang](https://scholar.google.com.hk/citations?user=Jk4vJU8AAAAJ)
 * **Institutions**: The Chinese University of Hong Kong, Shenzhen
-* **Resources**: [📄Paper](https://arxiv.org/abs/2506.01111)  [🤗Huggingface](https://huggingface.co/datasets/SatsukiVie/FusionAudio) [ModelScope](https://www.modelscope.cn/datasets/XinyuanXie/FusionAudio-1.2M)
+* **Resources**: [📄 Paper](https://arxiv.org/abs/2506.01111) &nbsp;|&nbsp; [🤗 Huggingface](https://huggingface.co/datasets/SatsukiVie/FusionAudio) &nbsp;|&nbsp; [<img src="https://avatars.githubusercontent.com/u/109945100?s=200&v=4" width="16" style="vertical-align:middle"/> ModelScope](https://www.modelscope.cn/datasets/XinyuanXie/FusionAudio-1.2M)
 * **Models**: [🤗FusionAudio](https://huggingface.co/SatsukiVie/FusionAudio)
+
+![sample](imgs/sample.png)
+
 
 ## 💡 Highlights
 
