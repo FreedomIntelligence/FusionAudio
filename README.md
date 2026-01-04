@@ -9,7 +9,7 @@
 
 * **Authors**: [Shunian Chen*](https://github.com/Shunian-Chen), [Xinyuan Xie*](https://github.com/satsuki2486441738), [Zheshu Chen*](https://github.com/kawagebo12), [Liyan Zhao](https://github.com/Apostasi0225cuhksz), [Owen Lee](https://github.com/KaiTheSkyWalker), [Zhan Su](https://scholar.google.com/citations?user=VzEpVpoAAAAJ), [Qilin Sun](https://scholar.google.com/citations?user=igqPS8sAAAAJ), [Benyou Wang](https://scholar.google.com.hk/citations?user=Jk4vJU8AAAAJ)
 * **Institutions**: The Chinese University of Hong Kong, Shenzhen
-* **Resources**: [📄Paper](https://arxiv.org/abs/2506.01111)  [🤗Dataset](https://huggingface.co/datasets/SatsukiVie/FusionAudio)
+* **Resources**: [📄Paper](https://arxiv.org/abs/2506.01111)  [🤗Huggingface](https://huggingface.co/datasets/SatsukiVie/FusionAudio) [ModelScope](https://www.modelscope.cn/datasets/XinyuanXie/FusionAudio-1.2M)
 * **Models**: [🤗FusionAudio](https://huggingface.co/SatsukiVie/FusionAudio)
 
 ## 💡 Highlights
